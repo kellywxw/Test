@@ -1,0 +1,29 @@
+{
+  "name": "alien-pong",
+  "version": "1.0.0",
+  "description": "## Background and Overview",
+  "main": "helpers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthu24/alien-pong.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthu24/alien-pong/issues"
+  },
+  "homepage": "https://github.com/matthu24/alien-pong#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-node6": "^11.0.0",
+    "webpack": "^2.7.0"
+  }
+}
